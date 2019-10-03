@@ -1,0 +1,2 @@
+user/testStudentLogin
+user/testqueryStudentById

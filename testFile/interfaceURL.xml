@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<interface>
+    <url name="studentLogin">
+        <group>student</group>
+        <module>unauth</module>
+        <action>login</action>
+    </url>
+     <url name="queryStudentById">
+        <group>student</group>
+        <module>student</module>
+        <action>queryStudentById</action>
+    </url>
+</interface>
